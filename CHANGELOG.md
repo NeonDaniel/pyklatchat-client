@@ -1,33 +1,32 @@
 # Changelog
 
-## [0.0.2a3](https://github.com/NeonGeckoCom/pyklatchat-client/tree/0.0.2a3) (2025-06-10)
+## [0.0.2a4](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.2a4) (2025-06-10)
 
-[Full Changelog](https://github.com/NeonGeckoCom/pyklatchat-client/compare/0.0.3a1...0.0.2a3)
-
-**Merged pull requests:**
-
-- Fix deployment automation [\#7](https://github.com/NeonGeckoCom/pyklatchat-client/pull/7) ([NeonDaniel](https://github.com/NeonDaniel))
-
-## [0.0.3a1](https://github.com/NeonGeckoCom/pyklatchat-client/tree/0.0.3a1) (2025-05-29)
-
-[Full Changelog](https://github.com/NeonGeckoCom/pyklatchat-client/compare/0.0.2a2...0.0.3a1)
-
-## [0.0.2a2](https://github.com/NeonGeckoCom/pyklatchat-client/tree/0.0.2a2) (2025-05-29)
-
-[Full Changelog](https://github.com/NeonGeckoCom/pyklatchat-client/compare/0.0.2a1...0.0.2a2)
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/0.0.2a3...0.0.2a4)
 
 **Merged pull requests:**
 
-- Sync Master -\> Dev [\#4](https://github.com/NeonGeckoCom/pyklatchat-client/pull/4) ([NeonKirill](https://github.com/NeonKirill))
+- Validate GHA changes [\#2](https://github.com/NeonDaniel/pyklatchat-client/pull/2) ([NeonDaniel](https://github.com/NeonDaniel))
 
-## [0.0.2a1](https://github.com/NeonGeckoCom/pyklatchat-client/tree/0.0.2a1) (2025-05-29)
+## [0.0.2a3](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.2a3) (2025-06-10)
 
-[Full Changelog](https://github.com/NeonGeckoCom/pyklatchat-client/compare/0.0.1...0.0.2a1)
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/0.0.3a1...0.0.2a3)
 
-**Merged pull requests:**
+## [0.0.3a1](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.3a1) (2025-05-29)
 
-- Update license test automation [\#3](https://github.com/NeonGeckoCom/pyklatchat-client/pull/3) ([NeonDaniel](https://github.com/NeonDaniel))
-- Migration from Pyklatchat Monorepo [\#1](https://github.com/NeonGeckoCom/pyklatchat-client/pull/1) ([NeonKirill](https://github.com/NeonKirill))
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/0.0.2a2...0.0.3a1)
+
+## [0.0.2a2](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.2a2) (2025-05-29)
+
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/0.0.2a1...0.0.2a2)
+
+## [0.0.2a1](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.2a1) (2025-05-29)
+
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/0.0.1...0.0.2a1)
+
+## [0.0.1](https://github.com/NeonDaniel/pyklatchat-client/tree/0.0.1) (2023-08-29)
+
+[Full Changelog](https://github.com/NeonDaniel/pyklatchat-client/compare/6c6da7562ded6dbdce988c64e80d43a1be61a703...0.0.1)
 
 
 
